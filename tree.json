@@ -1,0 +1,44 @@
+{
+  "head": {
+    "charset": {
+      "value": "UTF-8"
+    },
+    "date": {
+      "time": "17:50:04",
+      "value": "9 JUN 2024"
+    },
+    "file": "subtree",
+    "gedc": {
+      "form": "LINEAGE-LINKED",
+      "vers": "5.5.1"
+    },
+    "lang": "Japanese",
+    "sour": {
+      "name": "Tarombo",
+      "value": "TAROMBO",
+      "vers": "0.5.0 (57cfbea)"
+    }
+  },
+  "people": [
+    {
+      "fams": [],
+      "id": "I3*5cd25822-3650-46fa-a31f-d4439cf3c708",
+      "names": [
+        {
+          "value": "person 3\u0027s name //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "date": "1 JAN 2001",
+          "tag": "BIRT",
+          "sourceCitations": [],
+          "media": [],
+          "mediaRefs": [],
+          "noteRefs": [],
+          "notes": []
+        }
+      ]
+    }
+  ]
+}
